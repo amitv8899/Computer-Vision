@@ -26,6 +26,6 @@ Feel free to add your contributions, and add special features to these small pro
 
 Contributors:
 - Daniel Malky
-- Amit Viner *
+- Amit Viner
 
 [1]: https://opencv.org/
